@@ -1,14 +1,6 @@
 <!-- SET TOP ANCHOR -->
 <div id="top"></div>
 
-<!-- APP LOGO v1 -->
-<!-- 
-* THIS IS OPTIONAL
-<p align="center">
-  <img src="https://github.com/{**USRENAME_REPONAME**}/blob/main/README_ASSETS/TINDER_LOGO.png" width="300">  
-</p>
- -->
-
 <!-- PROJECT NAME -->
 #  @Dependency Property Wrapper
 
@@ -16,40 +8,11 @@
 This project was created to study about custom property wrapper to indect dependcy, avoid massives inits
 
 
-
-
-<!-- APP LOGO V2-->
-<!-- 
-<br />
-<div align="center">
-  <a href="https://github.com/othneildrew/Best-README-Template">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
-  </a>
-
-  <h3 align="center">Best-README-Template</h3>
-
-  <p align="center">
-    An awesome README template to jumpstart your projects!
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-    <br />
-    <br />
-    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-    ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  </p>
-</div>
--->
-
-
-
 <!-- INFO BADGES -->
-[![GitHub](https://img.shields.io/github/forks/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/repository-template)
-[![GitHub](https://img.shields.io/github/stars/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/repository-template)
-[![GitHub](https://img.shields.io/github/issues/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/repository-template/issues)
-[![GitHub](https://img.shields.io/github/issues-pr/PaoloProdossimoLopes/repository-template?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/repository-template/pulls)
+[![GitHub](https://img.shields.io/github/forks/PaoloProdossimoLopes/swift-dependency-indection-with-property-wrapper?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-dependency-indection-with-property-wrapper)
+[![GitHub](https://img.shields.io/github/stars/PaoloProdossimoLopes/swift-dependency-indection-with-property-wrapper?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-dependency-indection-with-property-wrapper)
+[![GitHub](https://img.shields.io/github/issues/PaoloProdossimoLopes/swift-dependency-indection-with-property-wrapper?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-dependency-indection-with-property-wrapper/issues)
+[![GitHub](https://img.shields.io/github/issues-pr/PaoloProdossimoLopes/swift-dependency-indection-with-property-wrapper?color=black&style=flat-square)](https://github.com/PaoloProdossimoLopes/swift-dependency-indection-with-property-wrapper/pulls)
 
 
 
