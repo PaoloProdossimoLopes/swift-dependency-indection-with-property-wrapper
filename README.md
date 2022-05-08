@@ -10,10 +10,10 @@
  -->
 
 <!-- PROJECT NAME -->
-#  REPOSITORY TEMPLATE
+#  @Dependency Property Wrapper
 
 <!-- DESCRIPTION -->
-This project are created for using as template for others repository.
+This project was created to study about custom property wrapper to indect dependcy, avoid massives inits
 
 
 
@@ -71,7 +71,6 @@ This project are created for using as template for others repository.
     - [INSTALATION](#instalation)
     - [RUN](#run)
 4. [USAGE/ DOCUMENTATION](#usage) 
-5. [ROADMAP](#roadmap)
 6. [CONTRIBUTING](#contributing)
 7. [LICENSE](#license)
 8. [CONTACT](#contact)
@@ -84,8 +83,10 @@ This project are created for using as template for others repository.
 <img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/SIMULADOR_LOADER.png" height="300">
 -->
 <p align="center">
-  <img src="https://github.com/PaoloProdossimoLopes/repository-template/blob/main/README_ASSETS/exampleMocks.jpeg" height="300" align="center">
+<img src="https://user-images.githubusercontent.com/70642432/167293741-36d1cdce-eb29-445e-80eb-439d500eeeb7.png" height="300" 
 <p/>
+
+
 
 <p align="right"><a href="#top">🔼 BACK TO THE TOP</a></p>
 
@@ -102,7 +103,7 @@ This project are created for using as template for others repository.
 1. Open your terminal in location that you want save the project.
 2. Clone the repo in this local.
 ```sh
-git clone https://github.com/PaoloProdossimoLopes/repository-template.git
+git clone https://github.com/PaoloProdossimoLopes/swift-dependency-indection-with-property-wrapper.git
 ```
 3. Open the file with extension .xcodeproj inside the folder project.
    
@@ -120,20 +121,6 @@ So that you can run the project follow this steps:
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
 _For more examples, please refer to the [Documentation](https://github.com/PaoloProdossimoLopes/repository-template/tree/main/DOCUMENTATION)_
-
-<p align="right"><a href="#top">🔼 BACK TO THE TOP</a></p>
-
-
-
-<!-- ROADMAP -->
-## ☑️  Roadmap <a name="roadmap"/>
-
-- [X] Do this.
-- [ ] Do That.
-  - [ ] Do other something.
-- [ ] Don't forgot to do this.
-
-See the [open issues](https://github.com/PaoloProdossimoLopes/repository-template/issues) for a full list of proposed features (and known issues).
 
 <p align="right"><a href="#top">🔼 BACK TO THE TOP</a></p>
 
